@@ -1,10 +1,12 @@
-### Teste da pizzaria
+# Teste da pizzaria
 
 O que foi utilizado: 
 
-React: ^16.13.1,
-React-Reddux: ^7.2.0,
-Styled-Components: ^5.1.1
+- React: ^16.13.1 
+
+- React-Reddux: ^7.2.0
+
+- Styled-Components: ^5.1.1
 
 ## Como rodar
 
